@@ -6,3 +6,7 @@ The coding languages that will be covered through this work in this repo are:
 + **R**
 + **HTML**
 + **Markdown**
+This repo will be usful to me because:
+1. It will serve as a place to store all my work for stats 220 over the semester.
+2. It will serve as a point of reference for future revision
+3. It allows other to see my Skills in HTML, R, Markdown and so on.

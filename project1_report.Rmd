@@ -10,14 +10,24 @@ knitr::opts_chunk$set(echo=TRUE, message=FALSE, warning=FALSE, error=FALSE)
 ```
 
 ```{css}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+color: #800020;
+background-color: rgb(245, 245, 220);
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+
+}
 
 ```
 
 ## Project requirements
-
+![Screenshot](Repo.png)  
+My project meets the requirements set out by the task on canvas as I meticulously followed each individual step detailed in the task description. I created both my github account and STATS 220 repo within the guidelines given, making sure it looked clean and professional (Link to repo: [***link***](https://github.com/FlynnPollingtonn/stats220/tree/main)). I made sure the READme file contains text in italics, bold text, both ordered and unordered lists, different headers and links to other websites. All of this serves the purpose of making both my github account and STATS 220 repo look significantly more professional, thus making me meet the requirements set out by the task.
 
 ## My meme
-![My Inspo Meme](https://site.surveysparrow.com/wp-content/uploads/2022/09/customer-voice-vs-real-voice.jpeg)
+### My Inspo Meme   
+![](https://site.surveysparrow.com/wp-content/uploads/2022/09/customer-voice-vs-real-voice.jpeg)
 ```{r meme-code, eval=TRUE}
 library(magick)
 
@@ -145,7 +155,8 @@ animated_meme %>%
 ```
 
 ## Creativity
-  
+My project demonstrates creativity in many ways. To begin with, the nature of the project itself, meme creation, is a creative endeavour, and as my final product only resembles the inspiration through the template used I feel as though the creativity of my project shines primarily through this aspect, but there are some other areas that I feel the project also shows creativity. The CSS used in the html document not only imports a font from the google api, something that breaks the mould, but also uses more commands then required by the product description, changing the background colour, font colour, font and font size, all to not only express the creativity of the project but also to make it more readable.
 
 ## Learning reflection
+One very important idea that I learnt through this project is the basics of R and markdown, as well as giving me a refresher on HTML and CSS, all of these are not only important to the course as a whole as these will be the languages primarily used but also help expand my growing knowledge of programming languages. I’m curious to continue exploring these languages, particularly R as we begin to learn about Regex and the data management/handling side of this course. Overall this knowledge will largely serve me well in my future statistics and computer science journey.
 
